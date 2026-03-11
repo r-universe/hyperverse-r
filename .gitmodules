@@ -5,3 +5,6 @@
 [submodule "htmxr"]
 	path = htmxr
 	url = https://github.com/hyperverse-r/htmxr
+[submodule "lucidr"]
+	path = lucidr
+	url = https://github.com/hyperverse-r/lucidr
